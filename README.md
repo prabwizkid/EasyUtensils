@@ -21,5 +21,3 @@ This project outlines the process of creating utensil designs by turning data in
 ## License
 This project is licensed under the MIT License, which allows anyone to use, modify, and distribute the licensed work, even for commercial purposes, as long as they credit the original copyright holder and comply with the license terms.
 
-## Contributions
-Contributions to this project are welcome. Please follow the contribution guidelines outlined in CONTRIBUTING.md.
